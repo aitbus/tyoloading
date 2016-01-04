@@ -1,0 +1,2 @@
+# tyoloading
+iOSローディングのみ。
